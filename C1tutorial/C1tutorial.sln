@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1tutorial", "C1tutorial.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_osnovne_operacije", "..\1_osnovne_operacije\1_osnovne_operacije.csproj", "{29431C93-3FC6-4B69-91D4-20002FF01949}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_nizovi", "..\2_nizovi\2_nizovi.csproj", "{146139E2-B2C1-4C7D-917A-3D307E055703}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{29431C93-3FC6-4B69-91D4-20002FF01949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29431C93-3FC6-4B69-91D4-20002FF01949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29431C93-3FC6-4B69-91D4-20002FF01949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146139E2-B2C1-4C7D-917A-3D307E055703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146139E2-B2C1-4C7D-917A-3D307E055703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146139E2-B2C1-4C7D-917A-3D307E055703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146139E2-B2C1-4C7D-917A-3D307E055703}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
