@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_osnovne_operacije", "..\1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_nizovi", "..\2_nizovi\2_nizovi.csproj", "{146139E2-B2C1-4C7D-917A-3D307E055703}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_klase", "..\3_klase\3_klase.csproj", "{033DF610-9F64-45A2-A96C-759451AFD5E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_klase", "..\3_klase\3_klase.csproj", "{033DF610-9F64-45A2-A96C-759451AFD5E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skola", "..\Skola\Skola.csproj", "{7570A3B6-9C3B-4EAE-96FD-93F364CB5A17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{033DF610-9F64-45A2-A96C-759451AFD5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{033DF610-9F64-45A2-A96C-759451AFD5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{033DF610-9F64-45A2-A96C-759451AFD5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7570A3B6-9C3B-4EAE-96FD-93F364CB5A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7570A3B6-9C3B-4EAE-96FD-93F364CB5A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7570A3B6-9C3B-4EAE-96FD-93F364CB5A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7570A3B6-9C3B-4EAE-96FD-93F364CB5A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
